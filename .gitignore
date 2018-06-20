@@ -4,3 +4,6 @@
 /cmake_install.cmake
 /.vscode/
 /build/
+/cmake-build-*/
+/.idea/
+
